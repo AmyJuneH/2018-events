@@ -14,7 +14,9 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |HackWest|Salt Lake City, UT|InfoSec, Testing|2018-03-21|2018-01-01|[Apply](https://hackwest.org/)|
 |DrupalCon Nashville|Nashville, TN|Drupal|2018-04-09|2018-01-24|[Apply](https://events.drupal.org/nashville2018/submit-session)|
 |Twin Cities Code Camp|Bloomington, MN|All Open Source|2018-04-22|2018-03-04|[Apply](https://twincitiescodecamp.com/#/Events/22/talks)|
+|Twin Cities Drupal|Minneapolis, MN|Drupal|2018-0607-30|TBD|[Apply](https://2018.tcdrupal.org/)|
 |Open Source North|Bloomington, MN|All Open Source|2018-06-14|2018-03-14|[Apply](http://opensourcenorth.com/)|
+|Drupal Camp Asheville|Asheville, NC|Drupal|2018-07-13|2018-04-23|[Apply](https://www.drupalasheville.com/submit-session)|
 |OSCON|Portland, OR|Open Source|2018-07-16|2018-01-30|[Apply](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615)|
 |WPCampus 2018|TBD|WordPress, Higher Ed|July 2018|Open Feb 2018|[Apply](https://wpcampus.org/)|
 |Drupal Camp Colorado|Denver, Co|Drupal|2018-8-3|TBD|[Apply](https://2018.drupalcampcolorado.org/)|
